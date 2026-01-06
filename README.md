@@ -1,6 +1,7 @@
 <h1 align="center"> 👋 Hello I'm Kartik Mehra</h1>
 An Aspiring Data Analyst who enjoys working with Excel, SQL, Python, Tableau, and Power BI to uncover insights and support better decision-making.
 
+
 Turning raw data into meaningful insights 📊
 
 ## 🌐 Socials:
