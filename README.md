@@ -1,4 +1,4 @@
-<h1> 👋 Hello I'm Kartik Mehra</h1>
+<h1> 👋 Hello I'm Kartik Mehra!</h1>
 An Aspiring Data Analyst who enjoys working with Excel, SQL, Python, Tableau, and Power BI to uncover insights and support better decision-making.
   
 
