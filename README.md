@@ -1,6 +1,5 @@
 <h1> 👋 Hello I'm Kartik Mehra!</h1>
-An Aspiring Certified Data Analyst with a strong foundation in data cleaning, analysis and visualization. Skilled in Excel, SQL, Python, Power BI and Tableau to uncover insights and support better decision-making.
-
+An Aspiring Certified Data Analyst with a strong foundation in data cleaning, analysis and visualization. Skilled in Excel, SQL, Python, Power BI and Tableau to uncover insights and support better decision-making.  
 
 
 Turning raw data into meaningful insights 📊.   
