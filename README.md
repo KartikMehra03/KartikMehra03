@@ -2,6 +2,7 @@
 An Aspiring Certified Data Analyst with a strong foundation in data cleaning, analysis and visualization. Skilled in Excel, SQL, Python, Power BI and Tableau to uncover insights and support better decision-making.
 
 
+
 Turning raw data into meaningful insights 📊.   
 
 Wake up • Analyze • Visualize • Repeat🚀.
